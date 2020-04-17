@@ -1,0 +1,10 @@
+[package]
+name = "mp3_tag_changer"
+version = "0.1.0"
+authors = ["Jonathan <jonathan@evangelchurch.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+id3 = "0.5.0"
